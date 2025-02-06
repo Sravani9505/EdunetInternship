@@ -12,7 +12,7 @@ Step 1: Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/sentiment-analysis.git
+git clone https://github.com/Sravani9505/sentiment-analysis.git
 cd sentiment-analysis
 Step 2: Install Dependencies
 bash
@@ -25,7 +25,7 @@ Get your Groq API Key and set it in the environment:
 bash
 Copy
 Edit
-export GROQ_API_KEY="your_api_key_here"
+export GROQ_API_KEY="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"
 How to Use
 Run the script and enter text for sentiment analysis:
 
